@@ -1,0 +1,13 @@
+/.idea/.gitignore
+/Chat App.iml
+/data/chat_history.txt
+/out/production/Chat App/logging.properties
+/out/production/Chat App/Main.class
+/out/production/Chat App/Message.class
+/.idea/misc.xml
+/.idea/modules.xml
+/readme.md
+/.idea/uiDesigner.xml
+/out/production/Chat App/User.class
+/out/production/Chat App/UserService.class
+/.idea/vcs.xml
