@@ -1,0 +1,6 @@
+Message: "Hello, it is a test message 123324231asfas",
+Sent by: Xushnudbek (xushnudbek@gmail.com),
+Sent to shoxruzbek@gmail.com, at: 16:05 01.07.2024
+Message: "Hello test 2",
+Sent by: Xushnudbek (xushnudbek@gmail.com),
+Sent to testUser123@gmail.com, at: 16:05 01.07.2024
